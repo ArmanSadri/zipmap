@@ -63,7 +63,7 @@ class AwesomeProject extends Component {
     return (
       <View style={styles.container}>
         <Text>
-          Loading where arman is...
+          Loading where your location is...
         </Text>
       </View>
     );
